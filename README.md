@@ -1,2 +1,2 @@
-# Linear-Regression
-Implementing linear regression on votes.xls dataset using SAS
+# Multiple-Linear-Regression
+Implementing multiple linear regression on votes.xls dataset using SAS
